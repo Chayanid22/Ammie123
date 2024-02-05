@@ -1,0 +1,48 @@
+Last login: Sun Feb  4 18:06:58 on ttys001
+/Users/chayanid/.zshenv:1: no such file or directory: /user/libexec/java_home
+chayanid@Chayanids-MacBook-Air ~ % clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+chayanid@Chayanids-MacBook-Air ~ % touch app.js
+chayanid@Chayanids-MacBook-Air ~ % touch index.html
+chayanid@Chayanids-MacBook-Air ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
